@@ -1,0 +1,18 @@
+{
+  "name": "introduction-to-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS course for beginners",
+  "main": "1-built-ins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Kimsea Sok",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
